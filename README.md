@@ -5,4 +5,4 @@ Test
 
 Trying to Work on Ansible Automation for the second time
 
-Artefact Project Test
+Artifact Project Test
